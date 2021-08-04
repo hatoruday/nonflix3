@@ -40,7 +40,7 @@ const eclass = class extends React.Component {
       console.log(result);
     } catch {
       this.setState({
-        error: "Can't find resultsssss",
+        error: "Can't find resultdd",
       });
     } finally {
       this.setState({
